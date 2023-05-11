@@ -61,10 +61,12 @@
 
 ### ✅ ToastMessage
 - 마지막 페이지에 도달했을 때, 알림을 주기 위해 `ToastMessage`를 구현했습니다. 
+
 ![](https://hackmd.io/_uploads/B1rclwDN2.gif)
 
 ### ✅ Sticky Header
 - 사용자에게 익숙한 UI를 제공하기 위해 상세보기에서 `Sticky Header`를 구현했습니다.
+
 ![](https://hackmd.io/_uploads/ryDW1PwE3.gif)
 
 ### ✅ LightMode / DarkMode
